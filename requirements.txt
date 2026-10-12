@@ -1,0 +1,13 @@
+numpy
+pandas
+openpyxl
+xlsxwriter
+matplotlib
+Pillow
+geopandas
+shapely
+rasterio
+requests
+pyogrio
+country_converter
+pycountry

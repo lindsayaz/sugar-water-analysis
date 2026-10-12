@@ -1,0 +1,14 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated analysis outputs
+**/outputs/*
+!**/outputs/.gitkeep
+
+# Temporary Office and operating-system files
+~$*
+.DS_Store
+Thumbs.db

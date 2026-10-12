@@ -1,0 +1,122 @@
+producer_region,consumer_region,blue_m3
+Africa,Africa,8187285979.034248
+Africa,Central America,279061.71948478534
+Africa,Eurasia,1452226.641107724
+Africa,Europe,124369429.28827007
+Africa,India,158940.71510662494
+Africa,North America,27936670.018624827
+Africa,Oceania,541662.2939544513
+Africa,Pakistan,240708.7393358679
+Africa,Rest of Asia,1334512501.28178
+Africa,South America,649478.9359667889
+Africa,Southeast Asia,6149859.167992174
+Central America,Africa,28294504.992253464
+Central America,Central America,765886886.9831052
+Central America,Eurasia,349584.34054449416
+Central America,Europe,94672215.04053873
+Central America,India,109667.44812705948
+Central America,North America,217015201.91060847
+Central America,Oceania,3571319.7306836485
+Central America,Pakistan,23110.669303703515
+Central America,Rest of Asia,205898709.25793713
+Central America,South America,44331140.39084146
+Central America,Southeast Asia,6136098.4583408935
+Eurasia,Africa,1279243.5096790341
+Eurasia,Central America,64622.55498517762
+Eurasia,Eurasia,343897827.4231483
+Eurasia,Europe,12249355.836443556
+Eurasia,India,18224.82243327582
+Eurasia,North America,350918.0754889145
+Eurasia,Oceania,67018.57444437257
+Eurasia,Pakistan,1657.1531331524866
+Eurasia,Rest of Asia,33466919.125963233
+Eurasia,South America,78433.80813012397
+Eurasia,Southeast Asia,279943.3237987571
+Europe,Africa,5866343.144177198
+Europe,Central America,316115.2781507065
+Europe,Eurasia,1311138.224274094
+Europe,Europe,605546101.1859994
+Europe,India,324229.65967351885
+Europe,North America,8665599.49110725
+Europe,Oceania,455548.82378371566
+Europe,Pakistan,65907.90459558275
+Europe,Rest of Asia,17193485.45349462
+Europe,South America,712151.2837271444
+Europe,Southeast Asia,754753.4635736515
+India,Africa,1379713959.7174077
+India,Central America,9205728.91922612
+India,Eurasia,9989240.162723592
+India,Europe,48766173.504273646
+India,India,28601408556.931503
+India,North America,34006416.34033932
+India,Oceania,27414517.82810354
+India,Pakistan,137879911.85374454
+India,Rest of Asia,2884136518.0672483
+India,South America,1511243.2081450678
+India,Southeast Asia,2395505128.487985
+North America,Africa,8637716.107961314
+North America,Central America,7608103.388515413
+North America,Eurasia,369559.6378234912
+North America,Europe,5008293.911185747
+North America,India,161781.30736109067
+North America,North America,2943799780.715023
+North America,Oceania,1401464.191807127
+North America,Pakistan,51595.129343925975
+North America,Rest of Asia,28351709.06839554
+North America,South America,5263547.293257858
+North America,Southeast Asia,3036406.3125822875
+Oceania,Africa,59133258.831037186
+Oceania,Central America,1067452.2863688543
+Oceania,Eurasia,191869.02165429376
+Oceania,Europe,13872172.903332405
+Oceania,India,405800.88422947517
+Oceania,North America,39309065.44033773
+Oceania,Oceania,451921232.91988283
+Oceania,Pakistan,375776.3469822983
+Oceania,Rest of Asia,589825051.1332017
+Oceania,South America,6286699.712087199
+Oceania,Southeast Asia,59896442.70108142
+Pakistan,Africa,24852661.80885743
+Pakistan,Central America,159905.32712161672
+Pakistan,Eurasia,120596.46921971219
+Pakistan,Europe,3229193.6774852723
+Pakistan,India,53514.582093299745
+Pakistan,North America,1357102.505366511
+Pakistan,Oceania,536824.7780985438
+Pakistan,Pakistan,12603825782.193419
+Pakistan,Rest of Asia,33325388.18833168
+Pakistan,South America,455303.3141763722
+Pakistan,Southeast Asia,21881367.14192428
+Rest of Asia,Africa,2166864.5508234412
+Rest of Asia,Central America,114760.41385527735
+Rest of Asia,Eurasia,974962.0322481287
+Rest of Asia,Europe,2322547.0379499984
+Rest of Asia,India,204336.6109404265
+Rest of Asia,North America,1939976.886546074
+Rest of Asia,Oceania,249000.89996864664
+Rest of Asia,Pakistan,7803668.703597044
+Rest of Asia,Rest of Asia,3431453459.4374948
+Rest of Asia,South America,259090.01533338707
+Rest of Asia,Southeast Asia,2308337.2080087154
+South America,Africa,276135608.19792885
+South America,Central America,10143786.71497329
+South America,Eurasia,9622416.18196736
+South America,Europe,59260455.42652036
+South America,India,11260392.07908075
+South America,North America,115489332.658779
+South America,Oceania,2087745.7427720996
+South America,Pakistan,2715282.859033964
+South America,Rest of Asia,413266652.76296055
+South America,South America,1576103838.0427597
+South America,Southeast Asia,107531914.72044866
+Southeast Asia,Africa,5670892.27508862
+Southeast Asia,Central America,58389.663645047534
+Southeast Asia,Eurasia,68298.86270273649
+Southeast Asia,Europe,2841260.2708676127
+Southeast Asia,India,190395.4080674714
+Southeast Asia,North America,12727320.009459827
+Southeast Asia,Oceania,9150422.427464752
+Southeast Asia,Pakistan,93207.1022117792
+Southeast Asia,Rest of Asia,116149457.43906154
+Southeast Asia,South America,148631.69827758436
+Southeast Asia,Southeast Asia,2133624655.8556812
